@@ -1,2 +1,2 @@
 # html-meme-project
-Meme website applied basic CSS
+Meme website applied with basic CSS
